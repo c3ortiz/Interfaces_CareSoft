@@ -30,7 +30,8 @@ public class UsuarioAdmin extends Usuario implements UsuarioCompatibleConHIPAA, 
     }
 
     public ArrayList<String> reportSecurityIncidents() {
-        return getSecurityIncidents();
+        System.out.println(securityIncidents);
+        return securityIncidents;
     }
 
     public void newIncident(String notes) {

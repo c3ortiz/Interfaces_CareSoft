@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a8fe22b-878a-46ee-b70a-d105266b6e99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/AdminCompatibleConHIPAA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/Physician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/UsuarioAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/UsuarioCompatibleConHIPAA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/UsuarioAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caresoft/clinicapp/UsuarioAdmin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
